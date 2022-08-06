@@ -1,14 +1,35 @@
-- 👋 Hi, I’m @Shyanukant
-- 👀 I’m interested in Data Science and web 3.0 program.
-- 🌱 I’m currently learning Data Science and Web 3.0 Development.
-- 💞️ I’m looking to collaborate on blockchain Dev and Data Scientist.
-  <h1>📫CONTACT ME</h1><li><ul>
-- <a href="http://twitter.com/shyanukant">TWITTER</a>
-- <a href="https://instagram.com/shyanukant">INSAGRAM</a>
-- <a href="http://facebook.com/shyanukant">FACEBOOK</a> 
-- <a href="mailto:http://shyanukantrathi51@gmail.com">MAIL</a></ul></li>
+![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeRiCVJ6lCexHR4-Sv_5uEibcHtFBZOQyvpcfVgGSv771_9mkbjZr8IHe9tzGRRmOmvjPzJWk2LKyYiTuLShrBHfPpnnh7H0odbHMkOeNaHgNuPPxSh8aQZ-Ve6WGSXr1g_DZaC2rzEwejpANQb8W3vSTiXcGQgLRwyiinBuLZ4L9OqBVT4_coDELq/s1600/shyanukant.gif)
+<h1 align="center" >Hi <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglknnLr6Aeblqm0PIeoh6pB90qxrrVQSSMYTUMOdqOpoBy-bWvNQGfsfRoTSuGAkl3R9i_RubUS4oqBrSHLAMhHKaRklnIyIhEBEfPKdoFSjRMnP4fwFOuDzxETZKJbFAMb2oiQLPUyD6KUR5PJI8K8fi3D6-oIL52hg0Og1rmx_LWmlKSWzw4ceGT/s1600/wave.gif" width="40" height="40" />I'm Shyanukant Rathi</h1>
+<h3 align="center">A passionate data science and machine learning.</h3>
 
-<!---
-Shyanukant/Shyanukant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shyanukant&label=Profile%20views&color=0e75b6&style=flat" alt="shyanukant" /> </p>
+
+<p align="left"> <a href="https://twitter.com/shyanukant" target="blank"><img src="https://img.shields.io/twitter/follow/shyanukant?logo=twitter&style=for-the-badge" alt="shyanukant" /></a> </p>
+
+- 🌱 I’m currently learning **Machine learning**
+
+- 👯 I’m looking to collaborate on **Machine Learning**
+
+- 🤝 I’m looking for help with **Data Science, and Machine Learning**
+
+- 💬 Ask me about **Flask, Data Science**
+
+- 📫 How to reach me **rathishyanukant@gmail.com**
+
+- 📄 Know about my experiences [https://shyanukant.github.io/](https://shyanukant.github.io/)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/shyanukant" target="blank"><img align="center" src="https://user-images.githubusercontent.com/72182251/183251470-ed2db06d-19f0-4aa4-a454-1a925183a297.png" alt="shyanukant" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/shyanukant" target="blank"><img align="center" src="https://user-images.githubusercontent.com/72182251/183251495-73c4d222-039b-444d-a41d-17da45c75484.png" alt="shyanukant" height="30" width="30" /></a>
+<a href="https://fb.com/shyanukant" target="blank"><img align="center" src="https://user-images.githubusercontent.com/72182251/183251520-c35054c1-cfff-4e0b-b39e-0db8385afc69.png" alt="https://www.facebook.com/shyanukant" height="30" width="30" /></a>
+<a href="https://instagram.com/shyanukant" target="blank"><img align="center" src="https://user-images.githubusercontent.com/72182251/183251543-72d6b590-387b-4a00-9594-1deff8352f16.png" alt="shyanukant" height="30" width="30" /></a>
+<a href="https://www.behance.net/srathi" target="blank"><img align="center" src="https://user-images.githubusercontent.com/72182251/183251636-5c4bca62-3264-4fbe-b341-042aa6dbda03.png" alt="srathi" height="30" width="30" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shyanukant&show_icons=true&locale=en&layout=compact" alt="shyanukant" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shyanukant&show_icons=true&locale=en" alt="shyanukant" /></p>
