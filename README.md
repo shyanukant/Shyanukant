@@ -1,4 +1,4 @@
-![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXcfb8-RB4ONk9K8P0Au_OoXnRiuZKBMFM2NRLTLhjrph4iMNcf5Yw2PB1W66oatg4HXLVS5Q5mZeH_TBw5_f4v4_pTMU9ROgKTzlqVtA9ynSOI59w5tz8R6a1FYJsL1z2KYgSho1Jgm_hD23wl_xMN7hcEFIqrD7JetNZTeuh2WvaPmlAWUaWXc0kMg/s1600/s.gif)
+![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu5_BPjKZDmjJPBMoexDvDcFYibSb6r12bH2yc6LrOXnLMq9R220zpixaMmf1glAtOGe-PCztn6Ky2YNjDQFGBAqk4JwMdQVvuCgbS4CbWUBYbrbP1QaHkbFDesxU0t76MHP_loFNO0_DcEaGYV4LOkw2jUCSZzMliS5bS5kVPWGqNXD3UKiPLuVp5Mg/s1600/shyanukant.gif)
 <h1 align="center" >Hi <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglknnLr6Aeblqm0PIeoh6pB90qxrrVQSSMYTUMOdqOpoBy-bWvNQGfsfRoTSuGAkl3R9i_RubUS4oqBrSHLAMhHKaRklnIyIhEBEfPKdoFSjRMnP4fwFOuDzxETZKJbFAMb2oiQLPUyD6KUR5PJI8K8fi3D6-oIL52hg0Og1rmx_LWmlKSWzw4ceGT/s1600/wave.gif" width="40" height="40" />I'm Shyanukant Rathi</h1>
 <h3 align="center">A passionate data science and machine learning.</h3>
 
