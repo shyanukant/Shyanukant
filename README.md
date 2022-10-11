@@ -24,7 +24,7 @@
 <a href="https://linkedin.com/in/shyanukant" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/72182251/183251495-73c4d222-039b-444d-a41d-17da45c75484.png" alt="shyanukant" height="30" width="30" ></a>
 <a href="https://fb.com/shyanukant" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/72182251/183251520-c35054c1-cfff-4e0b-b39e-0db8385afc69.png" alt="https://www.facebook.com/shyanukant" height="30" width="30" ></a>
 <a href="https://instagram.com/shyanukant" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/72182251/183251543-72d6b590-387b-4a00-9594-1deff8352f16.png" alt="shyanukant" height="30" width="30" ></a>
-<a href="https://www.behance.net/srathi" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/72182251/183251636-5c4bca62-3264-4fbe-b341-042aa6dbda03.png" alt="srathi" height="30" width="30" ></a>
+<a href="https://www.behance.net/shyanukant" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/72182251/183251636-5c4bca62-3264-4fbe-b341-042aa6dbda03.png" alt="srathi" height="30" width="30" ></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
