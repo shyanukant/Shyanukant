@@ -6,17 +6,17 @@
 
 <p align="left"> <a href="https://twitter.com/shyanukant" target="blank"><img src="https://img.shields.io/twitter/follow/shyanukant?logo=twitter&style=for-the-badge" alt="shyanukant" /></a> </p>
 
-- 🌱 I’m currently learning **Machine learning**
+- 🌱 I’m currently learning **Machine learning, Web3.0**
 
-- 👯 I’m looking to collaborate on **Machine Learning**
+- 👯 I’m looking to collaborate on **Machine Learning, Flask, Django**
 
-- 🤝 I’m looking for help with **Data Science, and Machine Learning**
+- 🤝 I’m looking for help with **Python Development, Data Science, and Machine Learning**
 
-- 💬 Ask me about **Flask, Data Science**
+- 💬 Ask me about **Pyhon, Flask, Data Science**
 
 - 📫 How to reach me **rathishyanukant@gmail.com**
 
-- 📄 Know about my experiences [https://shyanukant.github.io/](https://shyanukant.github.io/)
+- 📄 Know about my experiences [- My Portfolio](http://shyanukant.herokuapp.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
