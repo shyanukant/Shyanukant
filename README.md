@@ -30,6 +30,7 @@
 
 <h3 align="left">NFTs:</h3>
 
+[![lens protocol](https://img.shields.io/badge/shyanukat.lens-090?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.lensfrens.xyz/shyanukant.lens)
 [![opensea](https://img.shields.io/badge/opensea-0A66C2?style=for-the-badge&logo=opensea&logoColor=white)](https://opensea.io/shyanukant)
 [![kudos](https://img.shields.io/static/v1.svg?label=KUDOS&message=🎉&color=black&logoColor=white&labelColor=red)](https://mintkudos.xyz/profile/shyanukant?tab=Received)
 
