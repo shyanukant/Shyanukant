@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **rathishyanukant@gmail.com**
 
-- 📄 Know about my experiences [- My Portfolio](http://shyanukant.co/)
+- 📄 Know about my experiences [- My Portfolio](http://shyanukant.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
